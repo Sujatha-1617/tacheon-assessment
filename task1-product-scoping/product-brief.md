@@ -1,6 +1,6 @@
 # Product Brief: Marketing Performance Intelligence Tool
 
-## Problem
+## problem
 The team constantly gets asked: "How is our marketing performing across 
 channels right now, and where should we focus?" Today, answering it 
 means manually digging through multiple tools, stitching numbers together. 
